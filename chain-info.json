@@ -20,10 +20,10 @@
       "https://proton.eosusa.news"
    ],
    "hyperionEndpoints":[
+      "https://frankfurt.protondata.net",
       "https://proton.cryptolions.io",
       "https://proton.eosusa.news",
-      "https://proton.pink.gg",
-      "https://frankfurt.protondata.net"
+      "https://proton.pink.gg"
    ],
    "lightEndpoints":[
       "https://lightapi.eosamsterdam.net"
