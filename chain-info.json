@@ -19,13 +19,13 @@
       "https://proton.cryptolions.io",
       "https://proton.eosusa.news"
    ],
-   "hyperionHistoryEndpoints":[
+   "hyperionEndpoints":[
       "https://frankfurt.protondata.net",
       "https://proton.cryptolions.io",
       "https://proton.eosusa.news",
       "https://proton.pink.gg"
    ],
-   "lightApiEndpoints":[
+   "lightEndpoints":[
       "https://lightapi.eosamsterdam.net"
    ]
 }
