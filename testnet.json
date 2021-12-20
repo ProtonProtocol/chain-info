@@ -1,0 +1,24 @@
+{
+   "chainId":"71ee83bcf52142d61019d95f9cc5427ba6a0d7ff8accd9e2088ae2abeaf3d3dd",
+   "explorerUrl":"https://testnet.protonscan.io",
+   "explorerName":"Testnet ProtonScan.io",
+   "resourceTokenSymbol":"SYS",
+   "resourceTokenContract":"eosio.token",
+   "systemTokenSymbol":"XPR",
+   "systemTokenContract":"eosio.token",
+   "rpcEndpoints":[
+      "https://protontestnet.greymass.com",
+      "https://proton-testnet.eoscafeblock.com",
+      "https://testnet.protonchain.com",
+      "https://test.proton.eosusa.news"
+   ],
+   "actionsRpcEndpoints":[
+      "https://protontestnet.greymass.com",
+      "https://testnet.protonchain.com",
+      "https://test.proton.eosusa.news"
+   ],
+   "hyperionEndpoints":[
+      "https://testnet.proton.pink.gg"
+   ],
+   "lightEndpoints":[]
+}
