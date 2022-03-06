@@ -7,9 +7,9 @@
    "systemTokenSymbol":"XPR",
    "systemTokenContract":"eosio.token",
    "rpcEndpoints":[
-      "https://frankfurt.protondata.net",
       "https://proton.greymass.com",
       "https://proton.cryptolions.io",
+      "https://frankfurt.protondata.net",
       "https://api.proton.alohaeos.com",
       "https://proton.pink.gg",
       "https://proton.eosusa.news"
