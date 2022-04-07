@@ -27,5 +27,6 @@
    ],
    "lightEndpoints":[
       "https://lightapi.eosamsterdam.net"
-   ]
+   ],
+   "atomicassetsEndpoint": "https://proton.api.atomicassets.io"
 }
