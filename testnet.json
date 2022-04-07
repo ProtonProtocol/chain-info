@@ -20,5 +20,6 @@
    "hyperionEndpoints":[
       "https://testnet.proton.pink.gg"
    ],
-   "lightEndpoints":[]
+   "lightEndpoints":[],
+   "atomicassetsEndpoint": "https://test.proton.api.atomicassets.io"
 }
