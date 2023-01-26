@@ -28,7 +28,7 @@
       "https://frankfurt.protondata.net"
    ],
    "lightEndpoints":[
-      "https://lightapi.eosamsterdam.net"
+      "https://proton.light-api.net"
    ],
    "atomicassetsEndpoint": "https://proton.api.atomicassets.io"
 }
