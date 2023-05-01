@@ -7,7 +7,7 @@
    "systemTokenSymbol":"XPR",
    "systemTokenContract":"eosio.token",
    "rpcEndpoints":[
-      "https://metal-proton-rpc.global.binfra.one",
+      "https://mainnet-rpc.api.protondex.com",
       "https://api.protonnz.com",
       "https://proton.greymass.com",
       "https://proton.cryptolions.io",
