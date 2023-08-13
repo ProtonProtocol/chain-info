@@ -9,12 +9,7 @@
    "rpcEndpoints":[
       "https://mainnet-rpc.api.protondex.com",
       "https://api.protonnz.com",
-      "https://proton.greymass.com",
-      "https://proton.cryptolions.io",
-      "https://frankfurt.protondata.net",
-      "https://api.proton.alohaeos.com",
-      "https://proton.pink.gg",
-      "https://proton.eosusa.news"
+      "https://proton.greymass.com"
    ],
    "actionsRpcEndpoints":[
       "https://proton.greymass.com",
